@@ -23,6 +23,8 @@
 
 ## text generation
 
+- couplet (zh): https://github.com/wb14123/couplet-dataset
+
 ## summarization
 
 ## recommendation system
