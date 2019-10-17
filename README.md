@@ -27,7 +27,7 @@
 
 ## summarization
 
-### Mult-Document (MDS)
+#### Mult-Document (MDS)
 
 - DUC
 
@@ -35,7 +35,7 @@
 
 - RAMDS (cuhk)
 
-### Single-Document (SDS)
+#### Single-Document (SDS)
 
 - agiga
 
