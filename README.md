@@ -27,4 +27,24 @@
 
 ## summarization
 
+### Mult-Document (MDS)
+
+- DUC
+
+- TAC
+
+- RAMDS (cuhk)
+
+### Single-Document (SDS)
+
+- agiga
+
+- CNN/Daily Mail
+
+- 
+
+## Knowledge Base
+
+- ownthink (zh) : https://github.com/ownthink/KnowledgeGraphData
+
 ## recommendation system
