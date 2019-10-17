@@ -33,7 +33,7 @@
 
 - TAC
 
-- RAMDS (cuhk)
+- RAMDS (cuhk) ： http://www.se.cuhk.edu.hk/~textmine/dataset/ra-mds/
 
 #### Single-Document (SDS)
 
