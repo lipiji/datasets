@@ -8,7 +8,7 @@
 
 - Twitter (en)：
 
-- DailyDialog (en):
+- DailyDialog (en): http://yanran.li/dailydialog.html
 
 - PersonaChat (en):
 
