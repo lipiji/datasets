@@ -20,6 +20,8 @@
 
 - Topical-Chat (en): https://github.com/alexa/alexa-prize-topical-chat-dataset
 
+- Switchboard (en): https://github.com/NathanDuran/Switchboard-Corpus
+
 
 ## text generation
 
