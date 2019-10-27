@@ -28,6 +28,8 @@
 
 - Ubuntu Dialogue (en) :https://github.com/rkadlec/ubuntu-ranking-dataset-creator
 
+- EmpatheticDialogues (en): https://github.com/facebookresearch/EmpatheticDialogues
+
 
 ## text generation
 
