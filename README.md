@@ -24,6 +24,8 @@
 
 - Dialogue NLI (en): https://wellecks.github.io/dialogue_nli/
 
+- Movie Dialog Reddit : https://research.fb.com/downloads/babi/
+
 
 ## text generation
 
