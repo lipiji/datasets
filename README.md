@@ -12,7 +12,7 @@
 
 - PersonaChat (en):
 
-- OpenSubtitles (en):
+- OpenSubtitles (en): http://opus.nlpl.eu/OpenSubtitles.php
 
 - MultiWOZ (en):
 
