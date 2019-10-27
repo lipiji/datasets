@@ -22,6 +22,8 @@
 
 - Switchboard (en): https://github.com/NathanDuran/Switchboard-Corpus
 
+- Dialogue NLI (en): https://wellecks.github.io/dialogue_nli/
+
 
 ## text generation
 
