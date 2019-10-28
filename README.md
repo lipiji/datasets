@@ -49,9 +49,11 @@
 
 #### Single-Document (SDS)
 
-- agiga
+- LCSTS (zh):
 
-- CNN/Daily Mail
+- a-gigawords (en)
+
+- CNN/Daily Mail (en): https://github.com/abisee/cnn-dailymail
 
 - 
 
