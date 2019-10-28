@@ -33,6 +33,8 @@
 
 ## text generation
 
+- poetry (zh): https://github.com/chinese-poetry/chinese-poetry
+
 - couplet (zh): https://github.com/wb14123/couplet-dataset
 
 ## summarization
