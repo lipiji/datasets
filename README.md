@@ -57,7 +57,7 @@
 
 - CNN/Daily Mail (en): https://github.com/abisee/cnn-dailymail
 
-- 
+- scientific summarization : https://github.com/Santosh-Gupta/ScientificSummarizationDataSets
 
 ## Knowledge Base
 
