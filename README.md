@@ -14,7 +14,7 @@
 
 - OpenSubtitles (en): http://opus.nlpl.eu/OpenSubtitles.php
 
-- MultiWOZ (en):
+- MultiWOZ (en): https://www.repository.cam.ac.uk/handle/1810/294507
 
 - Cornell (en): https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
@@ -29,6 +29,8 @@
 - Ubuntu Dialogue (en) :https://github.com/rkadlec/ubuntu-ranking-dataset-creator
 
 - EmpatheticDialogues (en): https://github.com/facebookresearch/EmpatheticDialogues
+
+- Wizard of Wikipedia (en): https://parl.ai/projects/wizard_of_wikipedia/
 
 
 ## text generation
