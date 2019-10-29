@@ -4,7 +4,7 @@
 
 - Weibo (zh)：
 
-- Douban (zh)
+- Douban (zh): https://github.com/MarkWuNLP/MultiTurnResponseSelection
 
 - Twitter (en)：
 
