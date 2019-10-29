@@ -6,6 +6,8 @@
 
 - Douban (zh): https://github.com/MarkWuNLP/MultiTurnResponseSelection
 
+- Weibo Emotional Conversation Dataset (zh): http://coai.cs.tsinghua.edu.cn/hml/challenge2017/
+
 - Twitter (en)：
 
 - DailyDialog (en): http://yanran.li/dailydialog.html
@@ -31,6 +33,8 @@
 - EmpatheticDialogues (en): https://github.com/facebookresearch/EmpatheticDialogues
 
 - Wizard of Wikipedia (en): https://parl.ai/projects/wizard_of_wikipedia/
+
+- Commonsense Conversation (en): http://coai.cs.tsinghua.edu.cn/file/commonsense_conversation_dataset.tar.gz 
 
 
 ## text generation
