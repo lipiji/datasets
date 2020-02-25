@@ -65,6 +65,8 @@
 
 - Newsroom (en): https://summari.es/download/ 
 
+- BigPatent (en): https://drive.google.com/uc?export=download&id=1mwH7eSh1kNci31xduR4Da_XcmTE8B8C3
+
 ## Knowledge Base
 
 - ownthink (zh) : https://github.com/ownthink/KnowledgeGraphData
