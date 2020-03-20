@@ -2,17 +2,19 @@
 
 ## dialog system
 
-- Weibo (zh)：
+- Weibo (zh)：https://ai.tencent.com/ailab/nlp/dialogue/#datasets  (Weibo Conversation Datasets)
 
 - Douban (zh): https://github.com/MarkWuNLP/MultiTurnResponseSelection
 
+- Douban-20k (zh): https://ai.tencent.com/ailab/nlp/dialogue/#datasets  (Restoration-200K datasets)
+
 - Weibo Emotional Conversation Dataset (zh): http://coai.cs.tsinghua.edu.cn/hml/challenge2017/
 
-- Twitter (en)：
+- Twitter (en)：https://github.com/Marsan-Ma-zz/chat_corpus
 
 - DailyDialog (en): http://yanran.li/dailydialog.html
 
-- PersonaChat (en):
+- PersonaChat (en): https://s3.amazonaws.com/datasets.huggingface.co/personachat/personachat_self_original.json
 
 - OpenSubtitles (en): http://opus.nlpl.eu/OpenSubtitles.php
 
@@ -66,6 +68,8 @@
 - Newsroom (en): https://summari.es/download/ 
 
 - BigPatent (en): https://drive.google.com/uc?export=download&id=1mwH7eSh1kNci31xduR4Da_XcmTE8B8C3
+
+- XSum (en): http://kinloch.inf.ed.ac.uk/public/XSUM-EMNLP18-Summary-Data-Original.tar.gz
 
 ## Knowledge Base
 
