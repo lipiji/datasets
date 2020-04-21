@@ -51,17 +51,17 @@
 
 #### Mult-Document (MDS)
 
-- DUC
+- DUC: https://duc.nist.gov/
 
-- TAC
+- TAC: https://tac.nist.gov/data/
 
 - RAMDS (cuhk) ： http://www.se.cuhk.edu.hk/~textmine/dataset/ra-mds/
 
 #### Single-Document (SDS)
 
-- LCSTS (zh):
+- LCSTS (zh): http://icrc.hitsz.edu.cn/Article/show/139.html
 
-- a-gigawords (en)
+- Gigaword (en) https://drive.google.com/file/d/0B6N7tANPyVeBNmlSX19Ld2xDU1E/view
 
 - CNN/Daily Mail (en): https://github.com/abisee/cnn-dailymail
 
