@@ -10,6 +10,12 @@
 
 - Weibo Emotional Conversation Dataset (zh): http://coai.cs.tsinghua.edu.cn/hml/challenge2017/
 
+- Profile Consistency Dataset for Dialogue (zh): https://ai.tencent.com/ailab/nlp/en/dialogue/datasets/KvPI.zip  (paper: https://arxiv.org/abs/2009.09680)
+
+- Grayscale Dataset for Dialogue (zh): https://ai.tencent.com/ailab/nlp/en/dialogue/datasets/grayscale_data_release.zip (https://arxiv.org/abs/2004.02421)
+
+- Gender-Specific Chat (zh): https://ai.tencent.com/ailab/nlp/en/dialogue/datasets/Stylistic_Dataset.zip (https://arxiv.org/abs/2004.02202)
+
 - Twitter (en)：https://github.com/Marsan-Ma-zz/chat_corpus
 
 - DailyDialog (en): http://yanran.li/dailydialog.html
@@ -39,6 +45,7 @@
 - Commonsense Conversation (en): http://coai.cs.tsinghua.edu.cn/file/commonsense_conversation_dataset.tar.gz 
 
 - MuTual (en): https://github.com/Nealcly/MuTual
+
 
 
 ## text generation
