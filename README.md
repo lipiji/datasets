@@ -56,7 +56,7 @@
 
 ## summarization
 
-#### Mult-Document (MDS)
+#### Multi-Document (MDS)
 
 - DUC: https://duc.nist.gov/
 
@@ -84,4 +84,3 @@
 
 - ownthink (zh) : https://github.com/ownthink/KnowledgeGraphData
 
-## recommendation system
