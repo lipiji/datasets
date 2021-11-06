@@ -46,6 +46,9 @@
 
 - MuTual (en): https://github.com/Nealcly/MuTual
 
+## table-to-text
+
+- ToTTo Dataset: https://github.com/google-research-datasets/ToTTo
 
 
 ## text generation
@@ -53,6 +56,7 @@
 - poetry (zh): https://github.com/chinese-poetry/chinese-poetry
 
 - couplet (zh): https://github.com/wb14123/couplet-dataset
+
 
 ## summarization
 
